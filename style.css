@@ -159,10 +159,24 @@ body
   }
   .Project img
   {
-  	width: 47%;
+  	
+     color: #f444336;
+     margin: 0 2px;
+     cursor: pointer;
+     padding: 2px 0;
   }
   span
   {
   	display: block;
   }
+}
+.icons .fa{
+  color: #f444336;
+  margin: 0 2px;
+  cursor: pointer;
+  padding: 2px 0;
+}
+.fa-heart-o{
+   color: #f444336;
+
 }
